@@ -20,11 +20,11 @@ Este GitHub é meu laboratório: um lugar para organizar experiências, document
 
 ### Projetos
 
-**[ResetExplode Linux](https://github.com/Rafael-Chaves-Laboratorio/ResetExplode-Linux)**
+**[ResetExplode Linux](https://github.com/RafaNoTerminal/ResetExplode-Linux)**
 
 Aplicativo comunitário para monitorar hardware, acompanhar memória e processos, organizar jogos e executar testes no Linux. Inclui um motor próprio de teste de velocidade, sem exigir outro programa de speedtest. Em desenvolvimento, com limitações e validações documentadas no repositório.
 
-**[Guia de testes](https://github.com/Rafael-Chaves-Laboratorio/guia-de-testes)**
+**[Guia de testes](https://github.com/RafaNoTerminal/guia-de-testes)**
 
 Repositório de laboratório para organizar testes e experiências.
 
